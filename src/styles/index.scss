@@ -1,2 +1,75 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.styles {
+    text-align: center;
+    height: 50rem; 
+    padding: 10rem;
+    color: brown;
+    font-size: large;
+}
+
+.mainmenu{
+    background-color: brown;
+    margin-top: 3rem;
+   
+}
+
+.titles{
+    margin:auto;
+    text-align: center;
+}
+
+.inputs{
+    display: flex;
+    justify-content: center;
+}
+
+.startover{
+color: black;
+width: 6rem;
+height: 2rem;
+font-size: 1rem;
+background-color:brown;
+
+}
+
+.Xbutton{
+color: yellow;
+width: 8rem;
+height: 8rem;
+font-size: 5rem;
+background-color: burlywood;
+
+}
+
+.buttons {
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+   margin-top: 1rem;
+
+}
+
+.Obutton{
+color: blue;
+width: 8rem;
+height: 8rem;
+font-size: 5rem;
+background-color: burlywood;
+margin-left: 3rem;
+
+}
+
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+
+.grey{
+    background-color: grey;
+}
